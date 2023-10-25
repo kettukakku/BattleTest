@@ -1,0 +1,9 @@
+E:\BattleTest\.mono\temp\bin\Debug\BattleTest.dll
+E:\BattleTest\.mono\temp\bin\Debug\BattleTest.pdb
+E:\BattleTest\.mono\temp\obj\Debug\BattleTest.csproj.AssemblyReference.cache
+E:\BattleTest\.mono\temp\obj\Debug\BattleTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\BattleTest\.mono\temp\obj\Debug\BattleTest.AssemblyInfoInputs.cache
+E:\BattleTest\.mono\temp\obj\Debug\BattleTest.AssemblyInfo.cs
+E:\BattleTest\.mono\temp\obj\Debug\BattleTest.csproj.CoreCompileInputs.cache
+E:\BattleTest\.mono\temp\obj\Debug\BattleTest.dll
+E:\BattleTest\.mono\temp\obj\Debug\BattleTest.pdb
